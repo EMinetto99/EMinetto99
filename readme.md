@@ -4,6 +4,8 @@
 - 🌱 Actualmente estoy aprendiendo desarrollo web. HTML, CSS, JS, Java.
 - 🎯 Interesado en el area del desarrollo Backend, por lo que estoy haciendo algunos cursos para aprender.
 <br>
+<img src="https://komarev.com/ghpvc/?username=EMinetto99&color=blue&style=flat-square">
+<br>
 
 <div align="center">
   <h2>Algunos proyectos</h2>
