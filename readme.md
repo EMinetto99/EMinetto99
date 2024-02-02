@@ -9,6 +9,10 @@
 
 <div align="center">
   <h2>Algunos proyectos</h2>
+  <a href="https://github.com/EMinetto99/Integrador-Frontend-CaC">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EMinetto99&repo=Integrador-Frontend-CaC&theme=react&bg_color=7c4a2c&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
+  </a>
+  
   <a href="https://github.com/EMinetto99/barberia-Alura">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EMinetto99&repo=barberia-Alura&theme=react&bg_color=7c4a2c&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
   </a>
