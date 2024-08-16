@@ -30,8 +30,14 @@
   <a href="https://github.com/EMinetto99/FOD">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EMinetto99&repo=FOD&theme=react&bg_color=182752&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
   </a>
+  <a href="https://github.com/EMinetto99/AyED">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EMinetto99&repo=AyED&theme=react&bg_color=182752&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
+  </a>
   <a href="https://github.com/EMinetto99/Seminario-de-Lenguajes">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EMinetto99&repo=Seminario-de-Lenguajes&theme=react&bg_color=182752&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
+  </a>
+  <a href="https://github.com/EMinetto99/DBD">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EMinetto99&repo=DBD&theme=react&bg_color=182752&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
   </a>
   <a href="https://github.com/EMinetto99/ING1">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EMinetto99&repo=ING1&theme=react&bg_color=182752&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
